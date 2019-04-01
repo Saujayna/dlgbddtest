@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80885636-6e9e-4558-8f97-b62c66e521b4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DlgCarRegCheck" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/registration.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/stepdefs/StepDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/pom/TestPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1283#1284#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#1351#1352#0" expanded="true" />
+                <element signature="method#GetResultsReg#0;class#TestPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/test/TDDTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="56" column="29" selection-start-line="55" selection-start-column="7" selection-end-line="56" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/test/features/Registration.feature" />
+        <option value="$PROJECT_DIR$/src/features/registration.feature" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.feature" />
+        <option value="$PROJECT_DIR$/src/pom/es.feature" />
+        <option value="$PROJECT_DIR$/src/StepDefinitions/steps.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/features/carregistration.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/StepDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ord/dlg/test/App.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/pom/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/pom/TestPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/test/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/test/TDDTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ord/dlg/stepdefs/StepDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/registration.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="info.cukes:cucumber-java:1.0.11" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DlgCarRegCheck" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DlgCarRegCheck" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DlgCarRegCheck" type="616d4139:PackageViewModuleNode" />
+              <item name="src" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Dependencies" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dlg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dlg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dlg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="stepdefs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ord" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dlg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="features" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DlgCarRegCheck" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DlgCarRegCheck" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DlgCarRegCheck" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DlgCarRegCheck" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DlgCarRegCheck" type="462c0819:PsiDirectoryNode" />
+              <item name="Dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saujayna Saddi\IdeaProjects\DlgCarRegCheck\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: registration">
+    <configuration name="All Features in: features" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features" />
+      <option name="GLUE" value="$PROJECT_DIR$/src/test/java/ord/dlg/stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="DlgCarRegCheck" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="All Features in: features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: registration" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/registration.feature" />
+      <option name="GLUE" value="ord.dlg.stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="DlgCarRegCheck" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate car registration exists on the system" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/registration.feature" />
+      <option name="GLUE" value="ord.dlg.stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="DlgCarRegCheck" />
+      <option name="NAME_FILTER" value="^Validate car registration exists on the system$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validate car registration exists on the system$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate car registration exists on the system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate the car registration dates of the cover" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/registration.feature" />
+      <option name="GLUE" value="ord.dlg.stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="DlgCarRegCheck" />
+      <option name="NAME_FILTER" value="^Validate the car registration dates of the cover$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validate the car registration dates of the cover$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate the car registration dates of the cover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TDDTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DlgCarRegCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ord.dlg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ord.dlg.test" />
+      <option name="MAIN_CLASS_NAME" value="ord.dlg.test.TDDTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TDDTests.CarRegValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DlgCarRegCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ord.dlg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ord.dlg.test" />
+      <option name="MAIN_CLASS_NAME" value="ord.dlg.test.TDDTests" />
+      <option name="METHOD_NAME" value="CarRegValidationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src in DlgCarRegCheck" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="DlgCarRegCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.All Features in: features" />
+      <item itemvalue="Cucumber java.Scenario: Validate car registration exists on the system" />
+      <item itemvalue="Cucumber java.Feature: registration" />
+      <item itemvalue="Cucumber java.Scenario: Validate the car registration dates of the cover" />
+      <item itemvalue="JUnit.src in DlgCarRegCheck" />
+      <item itemvalue="JUnit.TDDTests.CarRegValidationTest" />
+      <item itemvalue="JUnit.TDDTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: registration" />
+        <item itemvalue="JUnit.TDDTests" />
+        <item itemvalue="JUnit.TDDTests.CarRegValidationTest" />
+        <item itemvalue="Cucumber java.Scenario: Validate the car registration dates of the cover" />
+        <item itemvalue="Cucumber java.Scenario: Validate car registration exists on the system" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80885636-6e9e-4558-8f97-b62c66e521b4" name="Default Changelist" comment="" />
+      <created>1553861069476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553861069476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Feature__registration - 2019.03.29 at 15h 54m 04s.xml">
+      <configuration name="Feature: registration" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__registration - 2019.03.29 at 15h 56m 28s.xml">
+      <configuration name="Feature: registration" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="TDDTests_CarRegValidationTest - 2019.03.29 at 16h 25m 23s.xml">
+      <configuration name="TDDTests.CarRegValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TDDTests_CarRegValidationTest - 2019.03.29 at 16h 25m 58s.xml">
+      <configuration name="TDDTests.CarRegValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TDDTests_CarRegValidationTest - 2019.03.29 at 16h 27m 10s.xml">
+      <configuration name="TDDTests.CarRegValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TDDTests_CarRegValidationTest - 2019.03.29 at 16h 27m 53s.xml">
+      <configuration name="TDDTests.CarRegValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__registration - 2019.03.29 at 16h 30m 54s.xml">
+      <configuration name="Feature: registration" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__registration - 2019.03.29 at 16h 36m 14s.xml">
+      <configuration name="Feature: registration" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="TDDTests - 2019.03.29 at 16h 36m 34s.xml">
+      <configuration name="TDDTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__registration - 2019.03.29 at 20h 29m 05s.xml">
+      <configuration name="Feature: registration" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.2859304" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.26928896" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.26928896" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49756098" weight="0.18381241" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.502439" side_tool="true" weight="0.18381241" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.22163388" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.26928896" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.26928896" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1603928" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="11" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.502439" side_tool="true" visible="true" weight="0.18381241" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49756098" visible="true" weight="0.18381241" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ord/dlg/test/TDDTests.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ord/dlg/test/TDDTests.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ord/dlg/stepdefs/StepDefinition.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DlgCarRegCheck$Scenario__.ic" NAME="Scenario:  Coverage Results" MODIFIED="1553868154580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="457" column="16" selection-start-line="457" selection-start-column="16" selection-end-line="457" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/test/features/Registration.feature" />
+    <entry file="file://$PROJECT_DIR$/DlgCarRegCheck.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pom/es.feature" />
+    <entry file="file://$PROJECT_DIR$/src/StepDefinitions/steps.java" />
+    <entry file="file://$PROJECT_DIR$/src/features/registration.feature" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/StepDefs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/features/carregistration.feature" />
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="520" column="15" selection-start-line="520" selection-start-column="15" selection-end-line="520" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ord/dlg/test/App.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.0.11/cucumber-core-1.0.11.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/test/TDDTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="56" column="29" selection-start-line="55" selection-start-column="7" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/pom/TestPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="method#GetResultsReg#0;class#TestPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ord/dlg/stepdefs/StepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/registration.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DlgCarRegCheck</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
